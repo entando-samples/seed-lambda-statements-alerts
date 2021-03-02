@@ -1,0 +1,14 @@
+/**.iml
+/**/node_modules/
+/.idea/
+/bundle/
+/**/build
+/microfrontends/alert-bar-icons-react/.env
+
+########
+.ent-state
+
+
+####
+bundle/
+/microservices/alert-lambda/target/

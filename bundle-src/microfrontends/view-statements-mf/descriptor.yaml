@@ -1,0 +1,6 @@
+code: view_statements_mf
+titles:
+  en: View Statements MF
+  it: View Statements MF
+group: free
+customUiPath: template.ftl

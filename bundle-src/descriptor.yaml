@@ -1,0 +1,5 @@
+code: seed-lambda-statements-alerts-bundle
+description: bundle for lambda based statements and alerts services
+components:
+  widgets:
+    - microfrontends/view-statements-mf/descriptor.yaml
